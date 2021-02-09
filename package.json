@@ -1,0 +1,6 @@
+{
+  "name": "my-screeps-bot",
+  "version": "1.0.0",
+  "main": "src/main.js",  
+  "screeps_bot": true
+}
